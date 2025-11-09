@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\moudr\\Documents\\C#\\VSCode_VlastnostiVyrobku\\VlastnostiVyrobku\\VlastnostiVyrobku.csproj": {}
+    "c:\\Users\\moudr\\Documents\\C#\\VSCode_VlastnostiVyrobku\\VlastnostiVyrobku\\VlastnostiVyrobku.csproj": {}
   },
   "projects": {
-    "C:\\Users\\moudr\\Documents\\C#\\VSCode_VlastnostiVyrobku\\VlastnostiVyrobku\\VlastnostiVyrobku.csproj": {
+    "c:\\Users\\moudr\\Documents\\C#\\VSCode_VlastnostiVyrobku\\VlastnostiVyrobku\\VlastnostiVyrobku.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\moudr\\Documents\\C#\\VSCode_VlastnostiVyrobku\\VlastnostiVyrobku\\VlastnostiVyrobku.csproj",
+        "projectUniqueName": "c:\\Users\\moudr\\Documents\\C#\\VSCode_VlastnostiVyrobku\\VlastnostiVyrobku\\VlastnostiVyrobku.csproj",
         "projectName": "VlastnostiVyrobku",
-        "projectPath": "C:\\Users\\moudr\\Documents\\C#\\VSCode_VlastnostiVyrobku\\VlastnostiVyrobku\\VlastnostiVyrobku.csproj",
+        "projectPath": "c:\\Users\\moudr\\Documents\\C#\\VSCode_VlastnostiVyrobku\\VlastnostiVyrobku\\VlastnostiVyrobku.csproj",
         "packagesPath": "C:\\Users\\moudr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\moudr\\Documents\\C#\\VSCode_VlastnostiVyrobku\\VlastnostiVyrobku\\obj\\",
+        "outputPath": "c:\\Users\\moudr\\Documents\\C#\\VSCode_VlastnostiVyrobku\\VlastnostiVyrobku\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\moudr\\AppData\\Roaming\\NuGet\\NuGet.Config",
