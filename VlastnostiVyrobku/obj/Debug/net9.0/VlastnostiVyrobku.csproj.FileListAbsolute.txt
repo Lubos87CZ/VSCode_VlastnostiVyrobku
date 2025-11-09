@@ -1,0 +1,14 @@
+c:\Users\moudr\Documents\C#\VSCode_VlastnostiVyrobku\VlastnostiVyrobku\bin\Debug\net9.0\VlastnostiVyrobku.exe
+c:\Users\moudr\Documents\C#\VSCode_VlastnostiVyrobku\VlastnostiVyrobku\bin\Debug\net9.0\VlastnostiVyrobku.deps.json
+c:\Users\moudr\Documents\C#\VSCode_VlastnostiVyrobku\VlastnostiVyrobku\bin\Debug\net9.0\VlastnostiVyrobku.runtimeconfig.json
+c:\Users\moudr\Documents\C#\VSCode_VlastnostiVyrobku\VlastnostiVyrobku\bin\Debug\net9.0\VlastnostiVyrobku.dll
+c:\Users\moudr\Documents\C#\VSCode_VlastnostiVyrobku\VlastnostiVyrobku\bin\Debug\net9.0\VlastnostiVyrobku.pdb
+c:\Users\moudr\Documents\C#\VSCode_VlastnostiVyrobku\VlastnostiVyrobku\obj\Debug\net9.0\VlastnostiVyrobku.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\moudr\Documents\C#\VSCode_VlastnostiVyrobku\VlastnostiVyrobku\obj\Debug\net9.0\VlastnostiVyrobku.AssemblyInfoInputs.cache
+c:\Users\moudr\Documents\C#\VSCode_VlastnostiVyrobku\VlastnostiVyrobku\obj\Debug\net9.0\VlastnostiVyrobku.AssemblyInfo.cs
+c:\Users\moudr\Documents\C#\VSCode_VlastnostiVyrobku\VlastnostiVyrobku\obj\Debug\net9.0\VlastnostiVyrobku.csproj.CoreCompileInputs.cache
+c:\Users\moudr\Documents\C#\VSCode_VlastnostiVyrobku\VlastnostiVyrobku\obj\Debug\net9.0\VlastnostiVyrobku.dll
+c:\Users\moudr\Documents\C#\VSCode_VlastnostiVyrobku\VlastnostiVyrobku\obj\Debug\net9.0\refint\VlastnostiVyrobku.dll
+c:\Users\moudr\Documents\C#\VSCode_VlastnostiVyrobku\VlastnostiVyrobku\obj\Debug\net9.0\VlastnostiVyrobku.pdb
+c:\Users\moudr\Documents\C#\VSCode_VlastnostiVyrobku\VlastnostiVyrobku\obj\Debug\net9.0\VlastnostiVyrobku.genruntimeconfig.cache
+c:\Users\moudr\Documents\C#\VSCode_VlastnostiVyrobku\VlastnostiVyrobku\obj\Debug\net9.0\ref\VlastnostiVyrobku.dll
